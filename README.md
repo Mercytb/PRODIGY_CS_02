@@ -1,0 +1,1 @@
+Created a basic tool for encrypting images using pixel manipulation techniques.This tool enables operations such as swapping pixel values or applying simple mathematical transformations to each pixel. It also allow users to both encrypt and decrypt images.
